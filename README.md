@@ -1,0 +1,1 @@
+# JavaScript-All-numbers-divisible-by-x
